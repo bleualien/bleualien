@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bleualien&show_icons=true&locale=en" alt="bleualien" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bleualien&" alt="bleualien" /></p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bleualien/count.svg?"  />
+</div>
