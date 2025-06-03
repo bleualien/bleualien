@@ -3,13 +3,17 @@
 <img align="right" alt="Coding" width="400" src=https://i.gifer.com/3AyY.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bleualien&label=Profile%20views&color=0e75b6&style=flat" alt="bleualien" /> </p>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bleualien/count.svg?"  />
+</div>
+
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **sainamrzn@gmail.com**
 
-![Snake animation](https://github.com/bleualien/bleualien/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
