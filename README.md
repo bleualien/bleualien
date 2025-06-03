@@ -13,7 +13,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/saina maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saina maharjan" height="30" width="40" /></a>
 <a href="https://instagram.com/saina.0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saina.0_0" height="30" width="40" /></a>
-<a href="https://instagram.com/saina.0_0" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg](https://www.pinterest.com/sainamrzn/)" alt="saina.0_0" height="30" width="40" /></a>
+<a href="https://www.pinterest.com/sainamrzn/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="saina pinterest" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
