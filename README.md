@@ -33,6 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bleualien&" alt="bleualien" /></p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bleualien/count.svg?"  />
-</div>
+
