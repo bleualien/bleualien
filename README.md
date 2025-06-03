@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Node.js**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **sainamrzn@gmail.com**
 
